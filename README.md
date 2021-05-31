@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richie V
 - 👀 I’m interested in etting to know Github better 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on anything that interests
 - 📫 How to reach me mail@richardvermont.co.uk
 
 <!---
